@@ -1,3 +1,21 @@
+# 👋 Hey there, I'm Mark Nelson Delavin!
+
+🎓 **Bachelor of Science in Information Technology** graduate  
+🌐 **Aspiring Network Engineer & DevOps Engineer**  
+💭 Passionate about building resilient infrastructures and optimizing system performance through automation, scalability, and secure design.
+
+I’m deeply interested in:
+- 🔧 Network configuration, monitoring, and performance tuning  
+- ☁️ Cloud deployment and containerized environments  
+- 🔄 Continuous Integration & Continuous Delivery (CI/CD) pipelines  
+- 🧠 Infrastructure-as-Code and system automation  
+- 🧩 Scalable backend and database architecture  
+
+💡 I believe in crafting **reliable, secure, and sustainable** digital solutions that drive both efficiency and innovation.
+
+---
+
+
 # 🧰 Tech Stack & Tools
 
 ---
