@@ -56,7 +56,6 @@ I’m deeply interested in:
 
 ## ☁️ Deployment Platforms
 ![Hostinger](https://img.shields.io/badge/Hostinger-6740B0?style=for-the-badge&logo=hostinger&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ngrok](https://img.shields.io/badge/Ngrok-1F1E37?style=for-the-badge&logo=ngrok&logoColor=white)
 ![PayMongo](https://img.shields.io/badge/PayMongo-00C58E?style=for-the-badge&logo=paypal&logoColor=white)
