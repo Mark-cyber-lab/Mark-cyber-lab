@@ -66,8 +66,6 @@ I’m deeply interested in:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Data Pipelining](https://img.shields.io/badge/Data_Pipelining-0096D6?style=for-the-badge)
-![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-1E90FF?style=for-the-badge)
-![Data Security & Privacy](https://img.shields.io/badge/Data_Security_&_Privacy-FFB400?style=for-the-badge)
 ![Practical Development Design](https://img.shields.io/badge/Practical_Development_Design-8B4513?style=for-the-badge)
 
 ---
@@ -75,7 +73,6 @@ I’m deeply interested in:
 ## 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD_Pipelines-0A66C2?style=for-the-badge)
 ![Infrastructure-as-Code](https://img.shields.io/badge/Infrastructure_as_Code-2C2C32?style=for-the-badge)
 ![System Automation](https://img.shields.io/badge/System_Automation-FF6F00?style=for-the-badge)
 
